@@ -7,6 +7,7 @@
   <project path="device/nokia/msm8937-common" name="android_device_nokia_msm8937-common" remote="nmdev" revision="lineage-18.1" />
   <project path="device/nokia/PLE" name="android_device_nokia_PLE" remote="nmdev" revision="lineage-18.1" />
 
+  <project path="vendor/nokia/msm8937-common" name="android_vendor_nokia_msm8937-common" remote="nmdev" revision="lineage-18.1" />
   <project path="vendor/nokia/PLE" name="android_vendor_nokia_PLE" remote="nmdev" revision="lineage-18.1" />
 
   <project path="kernel/nokia/PLE" name="android_kernel_nokia_PLE" remote="nm" revision="lineage-18.1" />
