@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="nmdev" fetch="https://github.com/nokia-msm8937-dev" />
+  <remote name="nm" fetch="https://github.com/nokia-msm8937" />
+
+  <project path="device/nokia/msm8937-common" name="android_device_nokia_msm8937-common" remote="nmdev" revision="lineage-18.1" />
+  <project path="device/nokia/PLE" name="android_device_nokia_PLE" remote="nmdev" revision="lineage-18.1" />
+
+  <project path="vendor/nokia/PLE" name="android_vendor_nokia_PLE" remote="nmdev" revision="lineage-18.1" />
+
+  <project path="kernel/nokia/PLE" name="android_kernel_nokia_PLE" remote="nm" revision="lineage-18.1" />
+
+</manifest>
